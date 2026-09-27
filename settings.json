@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "CraftLand",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "CraftLands-SMP.aternos.me",
+    "port": 37826,
     "version": "1.20.1",
     "try-creative": false
   },
